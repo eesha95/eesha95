@@ -1,5 +1,7 @@
 # 💫 About Me:
-Student<br><br>
+Student
+I am Eesha Upasya Mishra
+<br><br>
 
 
 ## 🌐 Socials:
