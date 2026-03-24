@@ -20,3 +20,8 @@ I am Eesha Upasya Mishra
 [![](https://visitcount.itsvg.in/api?id=eesha95&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👀 Profile Views
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eesha95.eesha95" />
+</div>
