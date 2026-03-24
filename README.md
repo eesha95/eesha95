@@ -27,13 +27,3 @@ Hi 👋, I'm **Eesha Upasya Mishra**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eesha95&theme=tokyonight&hide_border=true" height="160"/>
 
-# 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eesha95&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-# ⚡ Fun Section
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
