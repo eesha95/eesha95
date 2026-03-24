@@ -25,6 +25,8 @@ Hi 👋, I'm **Eesha Upasya Mishra**
 ![](https://nirzak-streak-stats.vercel.app/?user=eesha95&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eesha95&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesha95&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
 # 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eesha95&theme=tokyo-night&hide_border=true" />
