@@ -21,7 +21,17 @@ I am Eesha Upasya Mishra
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 👀 Profile Views
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eesha95.eesha95" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eesha95&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesha95&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    </td>
+    
+    <td align="center">
+      <h3>👀 Profile Views</h3>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=eesha95.eesha95"/>
+    </td>
+  </tr>
+</table>
