@@ -23,7 +23,11 @@ Hi 👋, I'm **Eesha Upasya Mishra**
 
 # 📊 GitHub Stats:
 <p align="center">
-![](https://github-readme-stats.vercel.app/api?username=eesha95&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eesha95&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eesha95&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eesha95&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=eesha95&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eesha95&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
