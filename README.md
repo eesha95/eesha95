@@ -8,7 +8,7 @@ Hi 👋, I'm <b>Eesha Upasya Mishra</b>
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eesha95&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=eesha95&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=eesha95&theme=tokyonight&hide_border=true&rand=123456" height="160"/>
 </p>
 
 <p align="center">
